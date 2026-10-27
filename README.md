@@ -2,6 +2,8 @@
 
 A machine-learning prototype that classifies job postings as **fake** or **real**. It includes a FastAPI backend, a single-page web interface, and the trained TF-IDF model artifacts.
 
+**Live Demo:** [fakejobpostingdetector.com](https://fakejobpostingdetector.com/)
+
 ## Features
 
 - Analyze a job posting from its title and description.
